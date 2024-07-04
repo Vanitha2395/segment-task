@@ -25,6 +25,7 @@
 
 .App-link {
   color: #4a8056;
+  cursor: pointer;
 }
 
 @keyframes App-logo-spin {
@@ -44,4 +45,9 @@
 
 .offcanvas-footer {
   padding: 1rem;
+}
+
+.formPointer
+{
+  cursor: pointer;
 }
